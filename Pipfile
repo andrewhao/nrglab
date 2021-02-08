@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 numpy = "1.20"
+python-dotenv = "*"
+meteostat = "*"
 
 [dev-packages]
 
