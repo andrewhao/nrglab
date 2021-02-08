@@ -9,4 +9,4 @@ This is for exploratory analysis around home efficiency. It fuses hourly energy 
 * [InfluxDB](https://www.influxdata.com/) temperature data (I have multiple Raspberry Pi's recording ambient data)
 * [Meteostat](https://dev.meteostat.net/) for hourly historical temperatature readings
 
-Follow along in `[nrglab.ipynb](https://github.com/andrewhao/nrglab/blob/main/nrglab.ipynb)`
+Follow along in [`nrglab.ipynb`](https://github.com/andrewhao/nrglab/blob/main/nrglab.ipynb)
